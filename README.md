@@ -1,1 +1,1 @@
-!(/lessonPost/1.jpg?raw=true)
+!(/lessonPost/1.jpg)
